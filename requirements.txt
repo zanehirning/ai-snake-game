@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 pip3 install torch torchvision torchaudio --extra-index-url https://download.pytorch.org/whl/cu116
+=======
+pip3 install torch torchvision torchaudio --extra-index-url https://download.pytorch.org/whl/cu116
+>>>>>>> b2c1c326b140e28bf4960bf71918eee20843168d
 pip3 install pygame
